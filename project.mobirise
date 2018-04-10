@@ -151,7 +151,7 @@
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>100% Mobile-friendly Site</b></li><li class=\"list-group-item\"><b>Free Web Hosting</b></li><li class=\"list-group-item\"><b>100 GB Bandwidth per Month</b></li><li class=\"list-group-item\"><b>You Own Your Website &amp; Domain</b></li><li class=\"list-group-item\"><b>Link Your Scheduling &amp; PayPal&nbsp;</b></li><li class=\"list-group-item\"><b>Updates @ $20 per hour</b></li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"https://zoom.us/meetings\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Demo</a>",
           "button2": "<a data-app-btn=\"true\" href=\"http://one2onecomputercoach.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Demo</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://computercoach.github.io/one2one/home\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Demo</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://computercoach.github.io/one2one\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Demo</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://computercoach.github.io/3-dmathtutoring/index.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Demo</a>",
           "alias": "purity/components",
           "_tags": [
