@@ -5,32 +5,6 @@
 
 
 
-#slider-0 H2 {
-  font-family: 'Montserrat', sans-serif;
-  text-align: left;
-  color: #000000;
-  font-size: 48px;
-}
-#slider-0 P {
-  color: #000000;
-  text-align: left;
-  font-size: 24px;
-  font-family: 'Lato', sans-serif;
-}
-#ext_menu-1 .navbar-toggler {
-  color: #000;
-}
-#ext_menu-1 .navbar-brand {
-  font-family: 'Montserrat', sans-serif;
-}
-#footer1-7 P {
-  font-family: 'Lato', sans-serif;
-  font-size: 14px;
-}
-
-
-
-
 
 #ext_menu-9 .navbar-toggler {
   color: #000;
@@ -75,4 +49,30 @@
 }
 #form2-e .btn {
   font-family: 'Lora', serif;
+}
+
+
+
+
+#slider-0 H2 {
+  font-family: 'Montserrat', sans-serif;
+  text-align: left;
+  color: #000000;
+  font-size: 48px;
+}
+#slider-0 P {
+  color: #000000;
+  text-align: left;
+  font-size: 24px;
+  font-family: 'Lato', sans-serif;
+}
+#ext_menu-1 .navbar-toggler {
+  color: #000;
+}
+#ext_menu-1 .navbar-brand {
+  font-family: 'Montserrat', sans-serif;
+}
+#footer1-7 P {
+  font-family: 'Lato', sans-serif;
+  font-size: 14px;
 }
